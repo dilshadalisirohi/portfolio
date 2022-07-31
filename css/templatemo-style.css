@@ -1,0 +1,63 @@
+/*
+
+Workforce CSS Template
+
+https://templatemo.com/tm-461-workforce
+
+*/
+
+
+/* end h2 */
+
+/* start h4 */
+h4 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+/* end h4 */
+ 
+#contact {
+  /* background-image: url(back.jpg); */
+  /* background: #F1F4FFFF ; */
+  color:black;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#contact .form-control {
+  border: 2px solid #205ec2;
+  /* background: transparent; */
+  border-radius: 0px;
+  box-shadow: none;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  transition: all 0.1s ease-in-out;
+}
+#contact input {
+  
+  height: 45px;
+  /* width: 100%; */
+}
+#contact input:focus {
+  
+  border: 2px solid  #205ec2;
+  font-weight: bold;
+}
+#contact textarea:focus{
+  border: 2px solid  #205ec2;
+  font-weight: bold;
+}
+
+#contact input[type="submit"] {
+  border: 2px solid  #205ec2;
+  font-weight: bold;
+  width: 100%;
+  /* color: rgb(255, 80, 80); */
+}
+#contact input[type="submit"]:hover {
+  
+  background: #205ec2;
+  color: #fff;
+}
+/* end contact */
+
+/* start footer */
